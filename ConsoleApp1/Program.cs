@@ -37,10 +37,14 @@ namespace Lab3
 
         static void InputA() { }
         static void InputB() { }
-        static void Add() { }
+        static void Add()
+        {
+            Console.WriteLine($"Результат A + B: {a + b}");
+        }
         static void Subtract() { }
         static void Multiply() { }
-        static void Divide() { } 
+        static void Divide() { }
+
 
     }
 }
