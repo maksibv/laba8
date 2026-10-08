@@ -26,7 +26,7 @@ namespace Lab3
                     case "1": InputA(); break;
                     case "2": InputB(); break;
                     case "3": Add(); break;
-                    case "4": Subtract(); break;
+                    case "4": Subtract(); break; 
                     case "5": Multiply(); break;
                     case "6": Divide(); break;
                     case "0": return;
