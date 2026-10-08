@@ -35,7 +35,7 @@ namespace Lab3
             }
         }
 
-        static void InputA() { }
+        static void InputA() {//Введите число }
         static void InputB() { }
         static void Add()
         {
