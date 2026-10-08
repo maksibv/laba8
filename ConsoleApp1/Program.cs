@@ -40,6 +40,7 @@ namespace Lab3
         static void Add() { }
         static void Subtract() { }
         static void Multiply() { }
-        static void Divide() { }
+        static void Divide() { } 
+
     }
 }
